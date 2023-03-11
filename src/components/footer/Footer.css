@@ -2,7 +2,7 @@
     background-color: rgb(78, 86, 158);
     display: flex;
     width: 100%;
-    height: 100%;
+    height: 38px;
     justify-content: space-between;
     align-items: center;
     color: black;
@@ -10,9 +10,23 @@
 }
 .footer a{
     color: black;
+    padding: 4px;
+
 }
+
 .copyright{
+    vertical-align:top;
+    margin-right: 0.5em;
+    padding-left: 3%;
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
+.social-media{
+    display: flex;
+    float: left;
+    margin:25px;
+    font-size: 20px;
+
+}
+

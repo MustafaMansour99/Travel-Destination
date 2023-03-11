@@ -7,7 +7,8 @@ function Footer() {
     <div className='footer'>
 
       <p className='copyright'> &copy; All right reserved </p>
-      <ul >
+      <h1>Mustafa Mansour</h1>
+      <ul className='social-media'>
       <a href="https://www.facebook.com/"  target="_blank"><i class="fab fa-facebook">Facebook</i></a><br></br>
       <a href="https://www.instagram.com/?hl=en" target="_blank"><i class="fab fa-instagram">Instagram</i></a><br></br>
       <a href="https://twitter.com/?lang=en" target="_blank"><i class="fab fa-twitter">twitter</i></a>
@@ -19,4 +20,4 @@ function Footer() {
   )
 }
 
-export default Footer
+export default Footer;
