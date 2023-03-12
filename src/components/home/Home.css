@@ -2,7 +2,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 60px;
 }
 .tours{
     margin: 10px 0px;
 }
+.my-button.btn-lg {
+    font-size: 24px;
+    padding: 16px 32px;
+  }
+  
+  
